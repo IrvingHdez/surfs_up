@@ -21,11 +21,14 @@ Though he needs to consider and investigate a key factor that is really importan
 ## Summary
 * Based on the summary tables for June and December we can assume that an ice cream shop is good bussines year around as temps are high enough in summer as in the winter. However we need to eximine more in detail more factors such as montly variance in temperature and precipitation to be certain.
 
-1. June Precipitation
+1. **June Precipitation**
 
 ![june_rain](https://github.com/IrvingHdez/surfs_up/blob/main/Images/june_prcp.PNG)
 
-2. December Precipitation
+
+2. **December Precipitation**
+
 ![dec_rain](https://github.com/IrvingHdez/surfs_up/blob/main/Images/dec_prcp.PNG)
+
 
 * With this new query we can see that December get the most rain although there's not a huge difference. 
